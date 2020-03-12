@@ -1,0 +1,16 @@
+{
+  "name": "odin-project-jest-testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.8.7",
+    "jest": "^25.1.0"
+  }
+}
